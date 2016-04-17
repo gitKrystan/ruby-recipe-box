@@ -1,7 +1,9 @@
 # Recipe Box
 
+#### By Krystan Menne and Jeff Seymour
+
 ## Description
-###### Ruby web app that stores recipes, including ingredients and tags.
+Ruby web app that stores recipes, including ingredients and tags.
 Practicing many-to-many relationships with ActiveRecord.
 
 ## Technologies Used
@@ -20,5 +22,8 @@ rake db:test:prepare
 ruby app.rb
 ```
 
-## License
+### License
+
+Copyright (c) 2015 Krystan Menne and Jeff Seymour
+
 This software is licensed under the MIT license.
